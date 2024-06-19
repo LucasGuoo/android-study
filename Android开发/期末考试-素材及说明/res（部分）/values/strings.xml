@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="local_music">本地音乐</string>
+    <string name="online_music">在线音乐</string>
+    <string name="favorite_music">我的收藏</string>
+    <string name="play_list">播放列表</string>
+    <string name="exit">退出</string>
+    <string name="play_all">全部播放</string>
+    <string name="add_all">全部添加到播放列表</string>
+    <string name="ok">确定</string>
+    <string name="search_hint">请输入歌名搜索</string>
+    <string name="clear">清空</string>
+    <string name="default_song_name">暂无正在播放的音乐</string>
+</resources>
